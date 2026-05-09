@@ -8,17 +8,23 @@
   />
 </div>
 
+<br />
+
 ## `~/about` 
 ```ts 
 const avic = {
       role : "Founder @ Skriptside",
-      location :"Bangalore, India 🇮🇳",
+      location :"Bangalore, India",
       building : ["Skriptside", "Ctrl", "whatever's next"],
       philosophy : "make software feel less like software",
       currentLoop : "ship →reflect → rebuild → repeat",
 };
-``` 
+```
+
+<br />
+
 ## `~/stack`
+
 <div align="center">
   <img
     src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,git,github,vscode&theme=dark"
@@ -28,46 +34,52 @@ const avic = {
   />
 </div>
 
+<br />
+
 ## `~/building`
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <h3>🛠 Skriptside</h3>
-        <p>
-          A software & product studio focused on building thoughtful digital
-          systems, products, and experiences.
-        </p>
-        <br />
-        <a href="https://skriptside.com">
-          <img
-            src="https://img.shields.io/badge/visit-skriptside-111111?style=for-the-badge&logo=vercel&logoColor=white"
-          />
-        </a>
-        <br />
-        <br />
-        <img
-          src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,mongodb&theme=dark"
-        />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <h3>⚡ Ctrl</h3>
-        <p>
-          Building something around communication, sessions, and modern client
-          interaction.
-        </p>
-        <br />
-        <img
-          src="https://img.shields.io/badge/status-building-111111?style=for-the-badge&labelColor=0d0d0d&color=333333"
-        />
-        <br />
-        <br />
-        <img
-          src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,tailwind,postgres,docker&theme=dark"
-        />
-      </td>
-    </tr>
-  </table>
+
+<div align="left">
+  <h3>🛠 Skriptside</h3>
+
+  <p>
+    A software & product studio focused on building thoughtful digital systems,
+    products, and experiences.
+  </p>
+
+  <a href="https://skriptside.com">
+    <img
+      src="https://img.shields.io/badge/skriptside-111111?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
+
+  <br />
+  <br />
+
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,mongodb&theme=dark"
+  />
+
+  <br />
+  <br />
+  <br />
+
+  <h3>⚡ Ctrl</h3>
+
+  <p>
+    Building something around communication, sessions, and modern client
+    interaction.
+  </p>
+
+  <img
+    src="https://img.shields.io/badge/status-building-111111?style=for-the-badge&labelColor=0d0d0d&color=333333"
+  />
+
+  <br />
+  <br />
+
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,tailwind,postgres,docker&theme=dark"
+  />
 </div>
 <div align="center">
   <img
