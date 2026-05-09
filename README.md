@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111111,100:222222&text=ashi&fontAlign=50&fontColor=ffffff&fontSize=42&desc=building%20something%20new&descAlign=50&descAlignY=68&animation=fadeIn"/>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-```txt
+
 systems • interfaces • experiments
 
 
@@ -25,13 +25,12 @@ systems • interfaces • experiments
 
 <br>
 
-```bash
 ~/status
 
 > currently working on something new
 > rebuilding ideas until they feel right
 > trying to make software feel less boring
-```
+
 
 <br>
 
