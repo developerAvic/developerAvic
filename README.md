@@ -27,10 +27,10 @@ const avic = {
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,git,github,vscode&theme=dark"
+    src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,git,github,vscode&theme=light"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=developerAvic&hide_border=true&background=0d0d0d&ring=444444&fire=777777&currStreakLabel=ffffff&sideLabels=666666&currStreakNum=ffffff&sideNums=aaaaaa&dates=444444&stroke=1c1c1c"
+    src="https://github-readme-streak-stats.herokuapp.com?user=developerAvic&hide_border=true&background=ffffff&ring=444444&fire=FF7700&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000&stroke=000000"
   />
 </div>
 
@@ -56,7 +56,7 @@ const avic = {
   <br />
 
   <img
-    src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,mongodb&theme=dark"
+    src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,mongodb&theme=light"
   />
 
   <br />
@@ -78,11 +78,14 @@ const avic = {
   <br />
 
   <img
-    src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,tailwind,postgres,docker&theme=dark"
+    src="https://skillicons.dev/icons?i=nextjs,react,express,nodejs,tailwind,postgres,docker&theme=light"
   />
 </div>
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1a1a1a,100:0a0a0a&fontColor=444444&fontSize=14&text=still%20shipping.&fontAlignY=65&animation=fadeIn"
-  />
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=4000&color=666666&center=true&vCenter=true&width=435&lines=building+things+that+feel+right."/>
+
 </div>
