@@ -27,8 +27,8 @@ const avic = {
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,express,mongodb,postgres,redis,docker,git,github,vscode&theme=light"
-  />
+  src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,reactnative,tailwind,express,mongodb,postgres,redis,docker,git,github,vscode,androidstudio,java&theme=light"
+/>
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=developerAvic&hide_border=true&background=ffffff&ring=444444&fire=FF7700&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000&stroke=000000"
   />
