@@ -13,11 +13,29 @@
 ## `~/about` 
 ```ts 
 const avic = {
-      role : "Founder @ Skriptside",
-      location :"Bangalore, India",
-      building : ["Skriptside", "Ctrl", "whatever's next"],
-      philosophy : "make software feel less like software",
-      currentLoop : "ship →reflect → rebuild → repeat",
+    role: "Founder @ Skriptside",
+    location: "Bangalore, India",
+
+    building: [
+        "Skriptside",
+        "Ctrl",
+        "whatever comes next"
+    ],
+
+    philosophy: "make software feel less like software",
+
+    currentLoop: () =>
+        "ship → break → rethink → rebuild → repeat",
+
+    stack: [
+        "TypeScript",
+        "React Native",
+        "Next.js",
+        "Express.js",
+        "Node.js"
+    ],
+
+    status: "probably building something right now"
 };
 ```
 
