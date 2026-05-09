@@ -1,73 +1,59 @@
 ````md
 <div align="center">
 
-# ashī
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:111111,100:222222&text=ashi&fontAlign=50&fontColor=ffffff&fontSize=42&desc=building%20something%20new&descAlign=50&descAlignY=68&animation=fadeIn"/>
 
-```txt
-booting something unreasonable...
-````
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+in+silence;breaking+things+professionally;probably+rewriting+the+backend;shipping+soon%E2%84%A2" />
+</div>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,express,postgres,redis,docker" />
+<div align="center">
+
+```txt
+systems • interfaces • experiments
+````
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker&theme=dark" />
+
+</div>
+
+<br>
 
 ```bash
-> status
+~/status
 
-currently:
-  designing systems
-  deleting bad code
-  rebuilding things for the 4th time
-  pretending this architecture is final
-
-ETA:
-  unknown
+> currently working on something new
+> rebuilding ideas until they feel right
+> trying to make software feel less boring
 ```
 
----
+<br>
 
 <div align="center">
 
-### somewhere between
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=developerAvic&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=888888"/>
 
-`it works`
-and
-`why is production on fire`
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=developerAvic&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc"/>
 
 </div>
 
----
-
-```txt
-no motivational quotes.
-no fake hustle.
-just building.
-```
-
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=developerAvic&show_icons=true&hide_border=true&bg_color=00000000&title_color=999999&text_color=777777&icon_color=888888" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developerAvic&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=999999&sideLabels=777777&currStreakNum=AAAAAA&sideNums=888888&dates=666666" height="165"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=2"/>
 
 </div>
 
----
-
 <div align="center">
 
-```txt
-"works on my machine"
-          — final words
-```
+### `still shipping.`
 
 </div>
 ```
