@@ -86,6 +86,6 @@ const avic = {
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=4000&color=666666&center=true&vCenter=true&width=435&lines=building+things+that+feel+right."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=4000&color=666666&center=true&vCenter=true&width=435&lines=building+things+that+are+essential."/>
 
 </div>
